@@ -1,5 +1,5 @@
 import tensorflow as tf
-
+666
 # Gaussian MLP as encoder
 def gaussian_MLP_encoder(x, n_hidden, n_output, keep_prob):
     with tf.variable_scope("gaussian_MLP_encoder"):
